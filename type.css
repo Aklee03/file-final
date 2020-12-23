@@ -1,0 +1,94 @@
+nav {
+  background-color: #98acf8;
+  padding: 30px 30px;
+  font-size: 25px
+}
+
+.nav-item {
+  padding: 20px 20px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  padding: 20px 20px 20px 10px
+}
+
+.rj1 {
+  padding: 150px 30px 25px 200px;
+  font-weight: bold;
+  color: #fbf6f0;
+  font-size: 50px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.rj2 {
+  padding: 25px 30px 50px 200px;
+  font-size: 30px;
+  color: #fbf6f0
+}
+
+.imgrj {
+  padding-top: 75px
+}
+
+.top {
+  background-color: #98acf8;
+}
+
+.about {
+  text-align: center;
+  padding: 25px
+}
+
+.rj3 {
+  font-size: 30px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.boy {
+  width: 180px;
+  border-radius: 150px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border: solid black 3px;
+}
+
+.col-lg-4 {
+  text-align: center;
+  margin: 100px 0;
+  color: white
+}
+
+i:hover {
+  color: #aee6e6;
+}
+
+i {
+  padding: 30px
+}
+
+.rj4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.Achievements {
+  margin: 9% 5%;
+}
+
+.rj5 {
+  color: black;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.contact {
+  text-align: center;
+  padding: 30px;
+  background-color: #98acf8;
+  color: white;
+}
